@@ -1,0 +1,24 @@
+.carousel-section {
+    max-width: 100%;
+    height: 80vh; 
+ 
+  }
+  
+  .carousel-image {
+   aspect-ratio: 16/9; /* Ensures image fills the height of the carousel */
+    object-fit: cover; /* Maintains aspect ratio and covers the container */
+    width: 100%; /* Ensures the image width adjusts */
+  }
+  
+  @media (max-width: 768px) {
+    .carousel-image {
+      height: 70vh; /* Adjusts height for smaller screens */
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .carousel-image {
+      height: 50vh; /* Adjusts height for mobile screens */
+    }
+  }
+  

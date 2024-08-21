@@ -1,0 +1,103 @@
+/* NavbarMenu.css */
+.custom-navbar {
+    height: 60px;
+    padding: 10px 20px;
+    background-color: #f8f9fa;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: fixed;
+  }
+  
+  .navbar-brand {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #1212e4;
+  }
+  
+  .nav-link {
+    font-size: 16px;
+    padding: 10px 15px;
+    color: #1212e4;
+  }
+  
+  .nav-link:hover {
+    color: #000;
+    background-color: #ffdc2f;
+    text-decoration: underline;
+    border-radius: 15px;
+  }
+  
+  /* Remove border from toggle button and style close button */
+  .custom-toggler {
+    border: none;
+    outline: none;
+  }
+  
+  @media (max-width: 991px) {
+    .navbar-brand {
+      font-size: 1.2rem;
+    }
+  
+    .nav-link {
+      font-size: 0.85rem;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .navbar-brand {
+      font-size: 1rem;
+    }
+  
+    .nav-link {
+      font-size: 0.8rem;
+    }
+  
+    .custom-navbar {
+      padding: 0px 15px;
+    }
+  }
+  
+  @media (max-width: 568px) {
+    .navbar-brand {
+      font-size: 0.9rem;
+    }
+  
+    .nav-link {
+      font-size: 0.75rem;
+    }
+  
+    .custom-navbar {
+      padding: 5px 8px;
+    }
+  }
+  
+  @media (max-width: 468px) {
+    .custom-navbar {
+      padding: 5px 8px;
+    }
+    .navbar-brand {
+      font-size: 0.8rem;
+    }
+  
+    .nav-link {
+      font-size: 0.7rem;
+    }
+  
+    .custom-navbar {
+      padding: 6px 10px;
+    }
+  }
+  
+  @media (max-width: 368px) {
+    .navbar-brand {
+      font-size: 0.65rem;
+    }
+  
+    .nav-link {
+      font-size: 0.45rem;
+    }
+  
+    .custom-navbar {
+      padding: 2px 5px;
+    }
+  }
+  

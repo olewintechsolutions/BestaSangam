@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ec970a1f.css",
+    "main.js": "/static/js/main.1d6397a9.js",
+    "static/media/besta2.png": "/static/media/besta2.b7af55176720aea12c81.png",
+    "static/media/besta.png": "/static/media/besta.092ccaa10e158c9b88f0.png",
+    "static/media/besta9.png": "/static/media/besta9.f5e0b07bb4e986f34d78.png",
+    "static/media/logo1.png": "/static/media/logo1.1634841ad67c7d94ebf1.png",
+    "static/media/besta16.png": "/static/media/besta16.68065b3d4c49c2068c0c.png",
+    "static/media/besta17.png": "/static/media/besta17.9f6508d7f3cb25007bec.png",
+    "static/media/bestasangam.jpeg": "/static/media/bestasangam.f3d1e78a3b9525b275c6.jpeg",
+    "static/media/besta16.jpg": "/static/media/besta16.c40c78980592a0721edf.jpg",
+    "static/media/besta14.jpg": "/static/media/besta14.de5990377cc21b731254.jpg",
+    "static/media/besta15.jpg": "/static/media/besta15.9928eff9e632f5392b1c.jpg",
+    "static/media/besta12.jpg": "/static/media/besta12.508126a9b29bb4bfb6d2.jpg",
+    "static/media/besta18.jpg": "/static/media/besta18.f8b2f5264bd0cd2cd2b5.jpg",
+    "static/media/member.jpg": "/static/media/member.b3bf66fbf0350c152274.jpg",
+    "static/media/marriage2.jpg": "/static/media/marriage2.14388078f1fcadbcc6b5.jpg",
+    "static/media/besta3.jpg": "/static/media/besta3.99ec8c22730338053cfc.jpg",
+    "static/media/icon.png": "/static/media/icon.ca8c8a8a7a3fd7312368.png",
+    "static/media/besta10.jpg": "/static/media/besta10.f00bc22438c295956324.jpg",
+    "static/media/besta4.jpg": "/static/media/besta4.45d4839816f9cdb2e70f.jpg",
+    "static/media/besta13.jpg": "/static/media/besta13.0cada99a33464269e81e.jpg",
+    "static/media/besta6.jpg": "/static/media/besta6.3ddfb73cad3edc2bd47e.jpg",
+    "static/media/logo2.jpg": "/static/media/logo2.b71671c71867ecaa0308.jpg",
+    "static/media/besta11.jpeg": "/static/media/besta11.6f3815a4bdf6b98fbfe3.jpeg",
+    "static/media/besta8.jpeg": "/static/media/besta8.319be0fea8671c84f828.jpeg",
+    "static/media/besta5.jpeg": "/static/media/besta5.f95573b2dd4fe980499e.jpeg",
+    "index.html": "/index.html",
+    "main.ec970a1f.css.map": "/static/css/main.ec970a1f.css.map",
+    "main.1d6397a9.js.map": "/static/js/main.1d6397a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec970a1f.css",
+    "static/js/main.1d6397a9.js"
+  ]
+}

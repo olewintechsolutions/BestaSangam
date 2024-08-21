@@ -1,0 +1,33 @@
+/* General styles */
+.carouselitem1 {
+    max-width: 100%;
+    margin: 0 auto;
+   
+  }
+  
+  /* Making images responsive */
+  .carousel-image {
+    width: 100%;
+    height: auto; /* Maintain aspect ratio */
+    object-fit: cover; /* Ensures the image covers the entire area */
+  }
+  
+  /* Custom responsive styles */
+  @media (max-width: 768px) {
+    .carousel-image {
+      height: 400px; /* Adjust height for medium screens */
+    }
+  }
+  
+  @media (max-width: 576px) {
+    .carousel-image {
+      height: 300px; /* Adjust height for small screens */
+    }
+  }
+  
+  @media (max-width: 400px) {
+    .carousel-image {
+      height: 200px; /* Adjust height for extra small screens */
+    }
+  }
+  
